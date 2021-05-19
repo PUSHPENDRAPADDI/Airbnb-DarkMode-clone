@@ -1,0 +1,48 @@
+.search{
+    position: absolute;
+    top: 35px;
+    left: 25%;
+    width: 100vw;
+     /* background-color: black;  */
+    /* color: white; */
+}
+.search > h2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 559px;
+    padding: 10px;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    left: 0;
+    top: 380px;
+}
+.search > input{
+    width: 539px;
+    padding: 20px;
+    position: absolute;
+    left: 0;
+    height: 30px;
+    top: 420px;
+    border: none;
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+.search > input:focus{
+    outline-width: 0;
+}
+.search > button{
+    position: absolute;
+    left: 0;
+    top: 480px;
+    text-transform: inherit !important;
+    background-color: black;
+    color: #ff7779;
+    width: 579px;
+    font-weight: 900;
+    font-size: larger;
+}
+.search > button:hover{
+    background-color: #ff7779;
+    color: #000000;
+}
