@@ -1,4 +1,4 @@
-Yuo can watch this website with link "https://airbnb-clone-18473.web.app/"
+You can watch this website with link "https://airbnb-clone-18473.web.app/"
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
